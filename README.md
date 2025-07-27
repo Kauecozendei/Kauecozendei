@@ -1,5 +1,4 @@
-Olá!!
-Eu me chamo Kauê e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+##Olá!! Eu me chamo Kauê e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
 <!--
 **Kauecozendei/Kauecozendei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
