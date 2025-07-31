@@ -1,8 +1,12 @@
-<h2>👋 Oiii, eu sou o Kauê Cozendei!</h2>
-<p>Desenvolvedor em aprendizado, apaixonado por tecnologia e programação.</p>
+<!-- FOTO DE PERFIL -->
 
-<p>
-  🔹 Atualmente estudando <strong>Java</strong>, <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>.<br>
+
+<h2 align="center">👋 Oiii, eu sou o Kauê Cozendei!</h2>
+<p align="center">Desenvolvedor em aprendizado, apaixonado por tecnologia e programação.</p>
+
+<p align="center">
+  🔹 Atualmente estudando <strong>Java</strong> com foco em <strong>Back-end</strong>.<br>
+  🔹 Também aprendendo <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>.<br>
   🔹 Criador do projeto <strong>Sign To Talk</strong> (Tradução simultânea de LIBRAS para texto/áudio).<br>
 </p>
 
