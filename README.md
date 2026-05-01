@@ -6,7 +6,7 @@
 
 <p >
   🔹 Atualmente estudando <strong>Java</strong> com foco em <strong>Back-end</strong>.<br>
-  🔹 Também aprendendo <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>.<br>
+  🔹 Também aprendendo <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e  <strong>PHP</strong>.<br>
   🔹 Criador do projeto <strong>Sign To Talk</strong> (Tradução simultânea de LIBRAS para texto/áudio).<br>
 </p>
 
