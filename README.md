@@ -6,7 +6,7 @@
   <br>
   🔹 Foco total em <strong>Back-end</strong> com <strong>PHP (Laravel)</strong> e <strong>Java (POO)</strong>.
   <br>
-  🔹 Desenvolvedor Back-end no projeto educacional <strong>Game Jam</strong> (Fatec).
+  🔹 Desenvolvedor Back-end no projeto educacional <strong>SGE</strong> (Fatec).
   <br>
   🔹 Criador do protótipo <strong>Sign To Talk</strong> (Tradução de LIBRAS via Visão Computacional).
 </p>
