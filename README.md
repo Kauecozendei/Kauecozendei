@@ -37,9 +37,10 @@
 ##
 
 <h3>🌐 Conecte-se comigo:</h3>
-
-  <a href="https://www.linkedin.com/in/kauecozendei" target="_blank">
+<p align="left">
+  <a href="https://www.linkedin.com/in/kauecozendei" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
+</p>  
 
 
